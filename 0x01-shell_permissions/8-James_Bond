@@ -1,2 +1,2 @@
 #!/bin/bash
-chmood 001 hello
+chmood +001 hello
